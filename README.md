@@ -10,4 +10,4 @@
 
 <br>
 
-### Database Design
+### Relational Database Schema
