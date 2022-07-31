@@ -11,3 +11,8 @@
 <br>
 
 ### Relational Database Schema
+<br>
+
+<p align="justify">
+  <img src="SRMS - RDS.drawio.png">
+</p>
