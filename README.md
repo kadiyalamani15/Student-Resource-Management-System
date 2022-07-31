@@ -13,6 +13,6 @@
 ### Relational Database Schema
 <br>
 
-<p align="justify">
+<p align="center">
   <img src="SRMS - RDS.drawio.png">
 </p>
